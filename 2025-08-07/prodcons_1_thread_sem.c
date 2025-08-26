@@ -127,7 +127,7 @@ int main(void) {
 		}
 	}
 		
-	printf("\n Father�s thread waiting for his kids.\n\n");
+	printf("\n Father's thread waiting for his kids.\n\n");
 	fflush(0);
 
 	for(int i = 0; i < produtores; i++)
